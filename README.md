@@ -1,7 +1,6 @@
 # node-notes-app
-Cool little project to keep remind you what you need to do throughout the day. To-do list
-Packages:
-Node,
+Cool little project I wanted to do to practice using Node. A simple little 
+To-do App: That includes packages such as:
 MongoDb
 Express,
 Ejs,
